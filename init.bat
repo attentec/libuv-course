@@ -1,5 +1,4 @@
 @echo off
-
 SETLOCAL
 SET WORKDIR=%~dp0
 
